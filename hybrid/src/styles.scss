@@ -1,7 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
 
-@import "./app/session/session-display/session-display.component";
-
+.title {
+    font-weight: bold;
+}
 .test-style {
     color: red;
 }
